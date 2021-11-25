@@ -1,6 +1,11 @@
 hola Leire naiz
 aldaketa egon da
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 newBranch-ean aldatzen
 >>>>>>> newBranch
+=======
+bigarrenBranchakin
+
+>>>>>>> secondBranc´h
