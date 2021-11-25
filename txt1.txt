@@ -1,2 +1,6 @@
 hola Leire naiz
 aldaketa egon da
+<<<<<<< HEAD
+=======
+newBranch-ean aldatzen
+>>>>>>> newBranch
